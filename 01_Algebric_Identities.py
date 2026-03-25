@@ -16,7 +16,7 @@ class Slide1Intro(Scene):
         self.play(FadeOut(title))
 class Slide2AimAndWorking(Scene):
     def construct(self):
-        aim = Tex("Aim: To determine the expansion of the Algebric expression ","$(a+b)^2$").scale(0.8)
+        aim = Tex("Aim: To determine the expansion of the Algebraic expression ","$(a+b)^2$").scale(0.8)
         self.play(Write(aim))
         self.wait(1)
         self.play(aim.animate.to_corner(UL))
@@ -106,7 +106,7 @@ class Slide4OutroSlide(Scene):
 
 class Slide0Thumbnail(Scene):
     def construct(self):
-        Heading = Text("Algebric Expressions").scale(1.5)
+        Heading = Text("Algebraic Expressions").scale(1.5)
         Topic = Tex("Expansion of ","$(a+b)^2$")
         Heading.shift(UP)
         Topic.shift(DOWN)
