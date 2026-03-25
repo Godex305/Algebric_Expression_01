@@ -10,7 +10,7 @@ class Slide1Intro(Scene):
     def construct(self):
         plane=NumberPlane()
         #self.add(plane)
-        title = Text('Algebric Expressions',font_size=72)
+        title = Text('Algebraic Expressions',font_size=72)
         self.play(Write(title))
         self.wait(2)
         self.play(FadeOut(title))
