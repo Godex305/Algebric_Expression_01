@@ -1,0 +1,26 @@
+# Slide1Intro Script
+
+Hello Learners, 
+In the topic of Algebric Expressions. Today we will talk about the Expansion of a plus b whole squared.
+
+# Slide2AimAndWorking
+
+So, our aim in the today's video is to determine the expansion of the algebric expansion a plus b whole squared.
+For this, Let's consider the term a plus b whole squared. Which can be rewritten as a plus b times a plus b.
+Now, we will use the fudamental distributive law to simplify further.
+As we can see in the next step that a is distributed over a plus b then putting the plus sign b is distributed over a plus b.
+Then, by solving further we get a times a plus a times b plus b times a and b times b.
+Which can be rewritten as a squared plus a times b plus a times b plus b squared.
+Finally, By adding the like terms we get, a squared plus 2 times ab plus b squared.
+Hence, we are done with the expansion.
+
+
+# Slide3ConclisionSlide
+At the last we get that a plus b whole squared is decomposed into a squared plus 2 times ab plus b squared. Which is the fundamental algebric identity.
+Now, let us try one application of the proved identity with the help of an example.
+The examples is asking us to expand 5x plus 3 whole squared using the proved identity.
+We can do it easily by replacing a by 5x and b by 3 in the given identity. Simple calculations will lead to the required.
+
+# Slide4OutroSlide
+
+Thanks for watching. I hope that you enjoyed this tutorial, we will meet in the next video.

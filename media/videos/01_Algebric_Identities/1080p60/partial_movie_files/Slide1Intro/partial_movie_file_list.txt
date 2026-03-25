@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide1Intro/3581103318_3136144934_223132457.mp4'
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide1Intro/2482139977_2872842549_1178899542.mp4'
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide1Intro/2482139977_2289152391_3501871513.mp4'

@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide3ConclusionSlide/3581103318_544042187_223132457.mp4'
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide3ConclusionSlide/2482139977_2777851648_2564782322.mp4'
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide3ConclusionSlide/2482139977_3644383913_4164750922.mp4'
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide3ConclusionSlide/2482139977_3188120165_613682781.mp4'
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide3ConclusionSlide/2482139977_2817266936_41461357.mp4'
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide3ConclusionSlide/2482139977_2754516151_1994753837.mp4'
+file 'file:/Users/godex305/manimations/YouTube Projects/media/videos/01_Algebric_Identities/1080p60/partial_movie_files/Slide3ConclusionSlide/2482139977_190086512_2358810818.mp4'
